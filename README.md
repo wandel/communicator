@@ -1,2 +1,2 @@
-# communicator
-python library for interacting with remote machines in a common way
+# Communicator
+Python library for interacting with remote machines in a common way
